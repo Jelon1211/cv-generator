@@ -1,11 +1,11 @@
 import { createRouter, createWebHistory } from "vue-router";
 
 import Home from "../views/Home.vue";
-import ExperienceForm from "../views/ExperienceForm.vue";
+import MainFormView from "../views/MainFormView.vue";
 
 const routes = [
   { path: "/", component: Home },
-  { path: "/experience", component: ExperienceForm },
+  { path: "/experience", component: MainFormView },
 ];
 
 // Create the router instance
