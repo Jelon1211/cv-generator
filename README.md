@@ -1,7 +1,7 @@
 # Work in progress
 
-Features yet to be implemented before release 3/11
+Features yet to be implemented before release **3/11**
 
 ## Last update
 
-07/10/2023
+08/10/2023
